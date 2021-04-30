@@ -5,6 +5,7 @@ Hi team!
 ## Summary
 
 I found a Google API key with weak restriction. The key can be used by anyone.
+Usually Google Map API key is not a secret. But without proper restriction, it can be a security problem.
 
 ## Steps To Reproduce
 
